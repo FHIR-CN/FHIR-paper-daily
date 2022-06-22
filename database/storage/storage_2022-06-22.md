@@ -1,5 +1,5 @@
-# Inuitive-paper-arxiv-daily latest papers around 3d Vision
-Automated deployment @ 2022-06-22 12:52:24 Asia/Shanghai
+# FHIR-paper-arxiv-daily latest papers
+Automated deployment @ 2022-06-22 12:58:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/wanghaisheng/Inuitive-paper-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/wanghaisheng/Inuitive-paper-daily/blob/main/database/storage).
 
