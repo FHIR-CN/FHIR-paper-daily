@@ -1,5 +1,5 @@
 # FHIR-paper-arxiv-daily latest papers
-Automated deployment @ 2022-06-22 12:58:07 Asia/Shanghai
+Automated deployment @ 2022-06-22 13:34:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/wanghaisheng/Inuitive-paper-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/wanghaisheng/Inuitive-paper-daily/blob/main/database/storage).
 
